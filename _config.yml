@@ -1,2 +1,4 @@
 title: Pages Primer Example
 theme: jekyll-theme-primer
+plugins:
+  - jemoji
